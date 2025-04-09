@@ -1,0 +1,16 @@
+[Unit]
+Description=Mars Bot Auto Trader
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/root/mars-bot
+ExecStart=/usr/bin/python3 /root/mars-bot/main.py
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+Environment="PYTHONUNBUFFERED=1"
+
+[Install]
+WantedBy=multi-user.target
