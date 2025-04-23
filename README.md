@@ -29,6 +29,7 @@ This repository contains the official **token list** and technical metadata for 
 - **Website:** [mars-token-base.weebly.com](https://mars-token-base.weebly.com)  
 - **Telegram:** [t.me/mars_token_base](https://t.me/mars_token_base)  
 - **Twitter (X):** [x.com/mars_token_base](https://x.com/mars_token_base)
+- **Email:** [mars.token.base@gmail.com]
 
 ---
 
