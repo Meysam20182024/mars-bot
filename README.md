@@ -1,7 +1,7 @@
 # Mars Token (MTN) — V3
 
-**Mars Token (MTN)** is a decentralized digital asset deployed on the **Base** blockchain using Uniswap V3.  
-It is designed for long-term growth, full transparency, and zero control by developers.
+**Mars Token (MTN)** is a decentralized community token launched on the **Base** blockchain and built on Uniswap V3.  
+It is designed for long-term growth, full transparency, and with no developer control.
 
 This repository contains the official **token list** and technical metadata for Mars Token V3.
 
@@ -15,11 +15,11 @@ This repository contains the official **token list** and technical metadata for 
 - **Contract Address:** `0xF2470f13cdDeeAe8bE6ABbcfDE52F799C36D3A56`  
 - **Network:** Base  
 - **Total Supply:** 1,000,000,000 MTN  
-- **Ownership:** Renounced  
+- **Ownership:** Preserved (for future use only, no active control)  
 - **Liquidity:** Permanently locked  
-- **Taxes:** 0% buy / 0% sell  
-- **Trading Limits:** None — no max wallet, no max transaction  
-- **Deployed on:** Uniswap V3  
+- **Tax:** 0% buy / 0% sell  
+- **Limits:** None — no max wallet or transaction limits  
+- **Exchange:** Uniswap V3  
 - **Logo:** ![MTN Logo](https://i.postimg.cc/8kHj9Kp9/IMG-5110.png)
 
 ---
@@ -27,7 +27,7 @@ This repository contains the official **token list** and technical metadata for 
 ## Official Links
 
 - **Website:** [mars-token-base.weebly.com](https://mars-token-base.weebly.com)  
-- **Telegram Group:** [t.me/mars_token_base](https://t.me/mars_token_base)  
+- **Telegram:** [t.me/mars_token_base](https://t.me/mars_token_base)  
 - **Twitter (X):** [x.com/mars_token_base](https://x.com/mars_token_base)
 
 ---
@@ -36,17 +36,19 @@ This repository contains the official **token list** and technical metadata for 
 
 Mars Token (MTN) is a Base-native community token with zero taxes, no trading limits, and permanently locked liquidity.
 
-The contract has **no blacklist**, **no whitelist**, and **no restrictions on trading** — users can buy or sell freely at any time, in any amount.  
-There are **no transfer limits**, **no cooldowns**, and **no time-based rules**.
+The contract has **no blacklist, no whitelist, and no trading restrictions** — users can freely buy or sell at any time, in any amount.  
+There are **no transfer limits, no cooldowns, and no time-based rules**.
 
-Ownership of the contract is **renounced** and only preserved for potential future ecosystem features like NFTs, staking, and DeFi —  
-**without any risk to token security or holder rights**.
+**Contract ownership is preserved**, but it provides **no control** over trading, tokens, liquidity, or user balances.  
+The contract is **locked from any modifications**, except for one specific purpose:  
+**to allow the future addition of features such as NFTs, staking, or DeFi**, if the community decides to expand.  
+**All other actions, including setting limits, taxes, freezing, or blocking addresses — are fully disabled and impossible.**
 
-There are **no functions for minting or burning**, **no admin privileges**, and **no way to block users or control supply**.  
-Everything is fully transparent and on-chain — built for long-term trust and real decentralization.
+**No admin functions. No minting. No burning. No restrictions.**  
+Mars Token is fully open, verifiable on-chain, and built for long-term trust and real decentralization.
 
 ---
 
 ## License
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is released under the MIT License.
