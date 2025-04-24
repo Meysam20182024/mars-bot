@@ -1,0 +1,28 @@
+{
+  "name": "Mars Token V3",
+  "logoURI": "https://i.postimg.cc/8kHj9Kp9/IMG-5110.png",
+  "keywords": [
+    "mars",
+    "mtn",
+    "base",
+    "uniswap",
+    "v3",
+    "token"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-04-24T12:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0xf8Cb6BddA3CE7D5F5C3fE684e38B53b2fBe29c67",
+      "name": "Mars Token",
+      "symbol": "MTN",
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/8kHj9Kp9/IMG-5110.png"
+    }
+  ]
+}
