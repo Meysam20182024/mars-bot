@@ -29,8 +29,8 @@ Both the PNG and SVG files are prepared according to crypto industry standards t
 
 ### Files:
 
-- [Download PNG (256x256)](https://github.com/Meysam20182024/mars-bot/blob/main/logo/Mars_Token_Base.png.png?raw=true)
-- [Download SVG (256x256)](https://github.com/Meysam20182024/mars-bot/blob/main/logo/mars_token_Base.SVG.svg?raw=true)
+- [Download PNG (256x256)](https://github.com/Meysam20182024/mars-bot/blob/main/logo/Mars_Token_Base.png?raw=true)
+- [Download SVG (256x256)](https://github.com/Meysam20182024/mars-bot/blob/main/logo/mars_token_Base.svg?raw=true)
 
 ---
 
