@@ -2,17 +2,18 @@
 
 This folder contains the official logo files for **Mars Token (MTN)**, designed for public and exchange integrations.
 
----
-
 ### Logo Information:
 
-- **Formats**: PNG and SVG  
-- **Dimensions**: 256 x 256 pixels  
-- **Background**: Dark blue circle  
-- **Foreground**: Bold white "M" and dot symbol  
-- **Optimization**: SVG is fully vectorized and ready for scaling without loss of quality.
+- **Formats:** PNG and SVG  
+- **Dimensions:** 256 x 256 pixels  
+- **Background:** Dark blue circle  
+- **Foreground:** Bold white "M" and dot symbol  
+- **Optimization:** SVG is fully vectorized and ready for scaling without loss of quality
 
----
+### Download:
+
+- [Download PNG Logo](https://github.com/Meysam20182024/mars-bot/raw/main/logo/Mars_Token_Base.png)  
+- [Download SVG Logo](https://github.com/Meysam20182024/mars-bot/raw/main/logo/mars_token_Base.svg)
 
 ### Usage:
 
@@ -23,16 +24,7 @@ The Mars Token logo is intended for use in:
 - **Decentralized exchanges (DEXs)** and aggregators  
 - **Community websites and social platforms**
 
-Both the PNG and SVG files are prepared according to crypto industry standards to ensure smooth integration across all services.
-
----
-
-### Files:
-
-- [Download PNG (256x256)](https://github.com/Meysam20182024/mars-bot/blob/main/logo/Mars_Token_Base.png?raw=true)
-- [Download SVG (256x256)](https://github.com/Meysam20182024/mars-bot/blob/main/logo/mars_token_Base.svg?raw=true)
-
----
+Both the **PNG** and **SVG** files are prepared according to crypto industry standards to ensure smooth integration across all services.
 
 ### License and Permissions:
 
